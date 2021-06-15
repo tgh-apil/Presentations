@@ -4,4 +4,4 @@
 3. Basic TEE Assessment of Aorta and PA: [Slides](https://docs.google.com/presentation/d/1DAYwTNsCsKugkFscP9W4wyyQ0ToAa19iV5ZK_jJnffM/edit?usp=sharing) | [Video](https://youtu.be/ZkMXqCDMrEg)
 
 # Media
-3D models and renderings created with 3D Slicer (Slicer.org - FLOSS).
+3D models and renderings created with [3D Slicer](https://Slicer.org) (FLOSS).
