@@ -2,7 +2,7 @@
 Presentations and related documents (2020-Present).
 
 ## 2021
-1. 20210804 [Azad Masari, Kate Kazlovich. 3D Printing in Health Care: Technological Context & Applications](https://docs.google.com/presentation/d/1g0OZW_LrjDNoMWMIkRfpI8iz4Lzlan15A39rr_kximc/edit?usp=sharing)
+1. 20210804 [Azad Masari, Kate Kazlovich. 3D Printing in Health Care: Technological Context & Applications](https://github.com/tgh-apil/Presentations/tree/main/20210804%203D%20Printing%20in%20Healtcare%20-%20BID%20Rounds)
 2. 20210604 [Azad Mashari. Cardiac Anatomy for Trans-thoracic Echo (TTE). ISURA 2021](https://github.com/tgh-apil/Presentations/tree/main/2021-ISURA)
 2. 20210604 [Azad Mashari. Cardiac Anatomy for Trans-Esophageal Echo (TEE). ISURA 2021](https://github.com/tgh-apil/Presentations/tree/main/2021-ISURA) 
 3. 20210604 [Azad Mashari. Basic TEE Assessment of Aorta and PA. ISURA 2021](https://github.com/tgh-apil/Presentations/tree/main/2021-ISURA)
